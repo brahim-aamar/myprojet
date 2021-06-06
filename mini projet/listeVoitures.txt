@@ -1,0 +1,6 @@
+1 ; MERCEDES ; ATGT ; BLUE ; 5 ; 150 ; NON
+2 ; toyota ; 4x4 ; ROUGE ; 6 ; 100 ; OUI
+3 ; DACIA ; SANDRO ; NOIRE ; 7 ; 150 ; OUI
+4 ; WOLLVSWAGEN ; GOLF ; BLANCHE ; 5 ;200 ; NON
+5 ; FERARI ; BGE3 ; ROUGE ; 2 ; 250 ; OUI
+6 ; Renault ; KONGO ; NOIRE ; 6 ; 200 ; NON
